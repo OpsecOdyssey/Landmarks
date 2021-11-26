@@ -35,7 +35,7 @@ struct ContentView: View {
                 
                 Text("About Turtle Rock")
                     .font(.title2)
-                Text("Does not contain turtles :(")
+                Text("Does not contain turtles :( Very Sad")
             }
             .padding()
             
